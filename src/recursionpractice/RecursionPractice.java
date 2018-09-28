@@ -22,18 +22,16 @@ public class RecursionPractice {
         }
         System.out.println("The product is: " + product);
         return product;
-
     }
 
     /**
      *
-     * @param base
-     * @param expo
+     * 
      * @return product
      */
-    public static int powerR(int base, int expo) {
+    public static int powerR(int n) {
         int product = 1;
-
+        
         return product;
     }
 
